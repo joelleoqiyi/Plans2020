@@ -1,3 +1,3 @@
-## Never tell anyone your plans, <span style="color:red">show them your result instead</span>...  ![ok?!](https://lh3.googleusercontent.com/proxy/PB5x1fZHCR7guU0MFaKTe23EnA2nrCLhhy9tY5U49NgHCqJl3sR39W2nXV0SZyfSns5T1n2NoMahjoBQJaPiSkYfk3DqJExMtXP_bt9ETlIBif7vvL3JKaJUPqzy_eAEFIGfcYJouEyjru90811TVBmg__DKvfJZagk6kwoO  =35x30)
+## Never tell anyone your plans, <span style="color:red">show them your result instead</span>...  ![ok?!](https://www.google.com/url?sa=i&url=http%3A%2F%2Fclipart-library.com%2Ffree%2Fsmiley-face-emoji-transparent-background.html&psig=AOvVaw1jW1GoD3n61m41hIe2uvqS&ust=1587615851118000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDnzoiY--gCFQAAAAAdAAAAABAD =35x30)
 
 ---
