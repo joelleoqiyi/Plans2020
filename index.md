@@ -20,4 +20,4 @@
  - [ ] [Programming for the Web with Javascript](https://www.edx.org/course/subject/computer-science)
 
 ---
-![DO IT!](/img/doit.jpeg)
+![DO IT!](doit.jpg)
