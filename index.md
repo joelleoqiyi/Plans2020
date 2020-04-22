@@ -5,7 +5,7 @@
 
 **THIS WILL BE DONE...** 
 
- - [ ] OSGO Network (at least a prototype)
+ [ ] OSGO Network (at least a prototype)
 	 - [ ] Learn [ReactJS](https://reactjs.org/docs/introducing-jsx.html) 
  - [ ] DataCamp
 	 - [x] [Introduction to R](https://www.datacamp.com/statement-of-accomplishment/course/3922bdd87645e8ddaa9ae4434447fa95d79adaab)
