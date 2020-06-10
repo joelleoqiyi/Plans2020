@@ -15,7 +15,7 @@
  - [x] [Majulah GCP](https://events.withgoogle.com/majulahgcp-learn-data-analytics-using-google-cloud/)/ [w Profile](https://www.qwiklabs.com/public_profiles/1c39ef3f-3833-4ef0-9787-3e2dc43bcc66) (26/04)
  - [x] [Packt JS Course](https://courses.packtpub.com/courses/take/javascript/texts/9179323-exercise-3-14-writing-a-function-as-a-statement-and-invoking-it) (100%) 
  - [x] [noSQL workshop @ BuildingBloCS](https://github.com/joelleoqiyi/BBCS-X-NoSQL) and [amazing race question](https://github.com/joelleoqiyi/BBCS-X-NoSQL-AmazingRace)!
- - [x] learn socket.io + server-side development (seen in stw2 hopefully)
+ - [x] learn/implement socket.io,Oauth, server-side development (seen in stw2 hopefully)
  - [ ] trying... to get close to prod (transpiling code, polyfills, babel, etc) 
 
 ---
