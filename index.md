@@ -19,8 +19,6 @@
  - [ ] trying... to get close to prod (transpiling code, polyfills, babel, etc) 
  - [ ] classdo internship + mkt video (in progress)
  - [x] buildingblocs
- - [ ] brain hack (also ongoing)
- - [ ] shopee (also ongoing, attended training-ish)
 
 ---
 ![DO IT!](doit.jpg)
