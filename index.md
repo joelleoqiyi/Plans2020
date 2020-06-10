@@ -17,6 +17,8 @@
  - [x] [noSQL workshop @ BuildingBloCS](https://github.com/joelleoqiyi/BBCS-X-NoSQL) and [amazing race question](https://github.com/joelleoqiyi/BBCS-X-NoSQL-AmazingRace)!
  - [x] learn/implement socket.io,Oauth, server-side development (seen in stw2 hopefully)
  - [ ] trying... to get close to prod (transpiling code, polyfills, babel, etc) 
+ - [ ] classdo internship + mkt video (in progress)
+ - [x] buildingblocs 
 
 ---
 ![DO IT!](doit.jpg)
