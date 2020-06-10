@@ -19,6 +19,7 @@
  - [ ] trying... to get close to prod (transpiling code, polyfills, babel, etc) 
  - [ ] classdo internship + mkt video (in progress)
  - [ ] buildingblocs (ongoing? haha)
+ - [ ] mongodb live (doing today-ish)
 
 ---
 ![DO IT!](doit.jpg)
