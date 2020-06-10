@@ -18,7 +18,7 @@
  - [x] learn/implement socket.io,Oauth, server-side development (seen in stw2 hopefully)
  - [ ] trying... to get close to prod (transpiling code, polyfills, babel, etc) 
  - [ ] classdo internship + mkt video (in progress)
- - [x] buildingblocs
+ - [ ] buildingblocs (ongoing? haha)
 
 ---
 ![DO IT!](doit.jpg)
